@@ -1,2 +1,2 @@
 # CIT12_Caesar-Cipher_Java
-Cipher, incomplete
+Cipher, incomplete, has some errors. 
